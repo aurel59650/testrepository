@@ -11,3 +11,5 @@ do
 		echo "le fichier nest pas dans le dossier"
 	fi
 done
+
+echo "v1.1"
