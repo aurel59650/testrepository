@@ -1,2 +1,2 @@
 
-echo "test jenkins via git 2611 a 16:27"
+echo "test jenkins via git 2611 a 16:43"
