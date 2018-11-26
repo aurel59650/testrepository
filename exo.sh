@@ -1,3 +1,3 @@
 #! /bin/bash
 
-echo "test jenkins via git"
+echo "test jenkins via git gogogo"
