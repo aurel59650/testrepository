@@ -1,0 +1,2 @@
+
+echo "test jenkins via git gogogo"
